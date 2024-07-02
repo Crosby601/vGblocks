@@ -1,6 +1,9 @@
 # vGblocks Plugin 🔧
 
+![version](https://img.shields.io/badge/version-0.9-blue.svg?cacheSeconds=2592000) ![Minecraft](https://img.shields.io/badge/Minecraft-1.8+-brightgreen.svg) ![Java](https://img.shields.io/badge/Java-8+-red.svg)
+
 ## Overview
+
 vGblocks to innowacyjny plugin do serwerów Minecraft, który dodaje trzy nowe bloki o unikalnych właściwościach. Każdy z tych bloków oferuje nowe możliwości interakcji ze środowiskiem gry, pozwalając na zamianę bloków w dół od miejsca ich postawienia. Plugin został zaprojektowany dla serwerów działających na wersji Minecraft 1.20.4.
 
 ## Funkcje 🚀
