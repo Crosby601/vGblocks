@@ -1,0 +1,8 @@
+name: vGblocks
+version: '${project.version}'
+authors:
+  - crosby
+main: club.vertuli.vgblocks.vGblocks
+commands:
+  craftingi:
+    description: Otwiera GUI z craftingami

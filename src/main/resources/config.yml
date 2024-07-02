@@ -1,0 +1,54 @@
+gui-slots:
+  47:
+    blocks:
+      10:
+        material: STONE
+        name: "&eNazwa Bloku 1"
+        lore:
+          - "&7To jest testowy blok"
+      11:
+        material: STONE
+        name: "&eNazwa Bloku 2"
+        lore:
+          - "&7To jest kolejny testowy blok"
+      12:
+        material: STONE
+        name: "&eTTT"
+        lore:
+          - "he"
+      19:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      20:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      21:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      28:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      29:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      30:
+        material: SAND
+        name: "&eTTT"
+        lore:
+          - "he"
+      24:
+        material: GOLDEN_APPLE
+        name: "&eTO DOSTANIESZ"
+        lore:
+          - ":)"
+# Dodaj więcej konfiguracji dla innych bloków
