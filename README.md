@@ -1,4 +1,4 @@
-# vGblocks Plugin 🔧
+# vGblocks 🔧
 
 ![version](https://img.shields.io/badge/version-0.9-blue.svg?cacheSeconds=2592000) ![Minecraft](https://img.shields.io/badge/Minecraft-1.8+-brightgreen.svg) ![Java](https://img.shields.io/badge/Java-8+-red.svg)
 
